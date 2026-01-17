@@ -1,6 +1,6 @@
 package infrastructure.report;
 
-import domain.ports.SensitiveReportPort;
+import application.port.SensitiveReportPort;
 
 public class RealSensitiveReport implements SensitiveReportPort {
 

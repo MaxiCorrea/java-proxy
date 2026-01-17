@@ -9,9 +9,9 @@ import static org.mockito.Mockito.verifyNoInteractions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
+import application.port.SensitiveReportPort;
 import domain.model.Role;
 import domain.model.User;
-import domain.ports.SensitiveReportPort;
 
 class AuthorizationProxyTest {
 

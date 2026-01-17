@@ -1,4 +1,4 @@
-package domain.ports;
+package application.port;
 
 public interface SensitiveReportPort {
 

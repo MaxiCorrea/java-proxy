@@ -1,6 +1,6 @@
 package application.usecase;
 
-import domain.ports.SensitiveReportPort;
+import application.port.SensitiveReportPort;
 
 public class GetSensitiveReportUseCase {
 

@@ -1,8 +1,8 @@
 package infrastructure.proxy;
 
+import application.port.SensitiveReportPort;
 import domain.model.Role;
 import domain.model.User;
-import domain.ports.SensitiveReportPort;
 
 public class AuthorizationProxy implements SensitiveReportPort {
 
